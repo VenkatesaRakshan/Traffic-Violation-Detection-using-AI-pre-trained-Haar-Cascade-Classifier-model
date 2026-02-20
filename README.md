@@ -1,0 +1,1 @@
+# Traffic-Violation-Detection-using-AI-pre-trained-Haar-Cascade-Classifier-model
